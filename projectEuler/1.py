@@ -15,9 +15,5 @@
         ##print(N)
 #print(sum)
 
-x=[]
-for i in range(1,1000):
-  if i%3 == 0 or i%5 == 0: #5아니면 3의 배수일때
-    x.append(i) #x에 넣기
-print(x)
-
+asdlfkgjnla;dhf;glkalsdkf
+qwiuhgoasjdl;fasd
