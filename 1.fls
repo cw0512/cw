@@ -1,0 +1,10 @@
+PWD c:/Users/My_Home/Desktop/project
+INPUT c:/texlive/2019/texmf.cnf
+INPUT c:/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/My_Home/Desktop/project/1.tex
+OUTPUT c:\Users\My_Home\Desktop\project/1.log
+INPUT c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
