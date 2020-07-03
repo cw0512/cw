@@ -4,11 +4,13 @@
 
 #10<=n<=20의 소수들만 2520과 곱하면 됨
 
+PNs = 2,3,5,7
+NPN = {}
+n = 10,11,12,13,14,15,16,17,18,19,20
 
-"""a = {}
+for PN in PNs:
+    if n%PNs != 0:
+    PNs.append(PN)
 
-for i in range(10,21)
-    if i % 2 != 0
-        add = add + i
 
-print(a)"""
+print(NPN)
