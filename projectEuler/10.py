@@ -2,12 +2,36 @@
 
 #이백만(2,000,000) 이하 소수의 합은 얼마입니까?
 
-#여태 있던 소수 중 하나로라도 나누어떨어지지않으면 소수 ㅇㅇ
+#200만 이하의 소수 구하기
+
+n = 2000000
 
 a = []
-n = range(1,2000001)
-while n < 2000000:
-    if n%d != 0:
-        a.append(n)
+for i in range(2, n + 1) :
+    cnt = 0
+
+    for j in range(2, i) :
+        if i % j == 0 :
+           cnt = 1
+
+    if cnt == 0 :
+        #print(i)
+        a.append(i)
+
+
+
+
+print(sum(a))
+    
+
+
+
+
+    
+        
+
+    
+
+    
 
 
