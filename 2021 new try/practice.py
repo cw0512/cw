@@ -1,5 +1,5 @@
-age = 4
-is_adult = age >= 3
+import os
 
 
-print(str(is_adult))
+path = r'c:\users\My_Home\Desktop\WordTest'
+os.mkdir(path)
